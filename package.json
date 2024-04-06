@@ -1,0 +1,20 @@
+{
+  "name": "@tatsutakein/project-boilerplate",
+  "version": "0.4.1",
+  "description": "Boilerplate at the time of my project creation.",
+  "license": "MIT",
+  "author": {
+    "name": "Ryo Takeuchi",
+    "url": "https://tatsutakein.jp"
+  },
+  "type": "module",
+  "scripts": {
+    "clean": "git clean -xdf node_modules",
+    "plop": "plop"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "19.2.1",
+    "@commitlint/config-conventional": "19.1.0",
+    "plop": "4.0.1"
+  }
+}
