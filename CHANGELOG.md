@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.0](https://github.com/tatsutakein/static-website-gh-pages-sample/compare/v0.4.1...v0.5.0) (2024-05-13)
+
+
+### Features
+
+* bunx create-astro@latest ([7d71700](https://github.com/tatsutakein/static-website-gh-pages-sample/commit/7d71700775535012d4d54a6c751b0e6b25719d26))
+* Jekyll ビルド プロセスを無効化 ([9c94f9d](https://github.com/tatsutakein/static-website-gh-pages-sample/commit/9c94f9d6bfcdad616edfbb00982a4fe05d3239cd))
+
 ## [0.4.1](https://github.com/tatsutakein/project-boilerplate/compare/v0.4.0...v0.4.1) (2024-03-05)
 
 
